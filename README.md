@@ -1,14 +1,11 @@
-#### For my 5th and final (capstone) project at GA I have decided to explore data visualization libraries in Python. I will try to represent soccer data such as expected goals (xG - yes, that's a thing) and passes made/attempted in the particular match.
+### For my 5th and final (capstone) project at GA I have decided to explore data visualization libraries in Python. I will try to present soccer data from the English Premier League.
 
 ### Goals:
 
-- Pull the API stats, filter it out to scale it down for my own needs.
-- Write the functions needed and present the data in a reasonable way.
-
-#### Stretch Goal:
-
-- Expand it to diff leagues matches player etc (I would start using one competition and probably one team at the begining and then scale it up as much as the time allows)
-
-#### Stretch Strech Goal:
-
-- Make some kind of data analysis based on the data imported
+- TOPIC: "Liverpool and Manchester City dominance since Jurgen Klopp and Pep Guardiola were hired."
+- Find and download the data
+- Clean the data and change the data types if needed
+- Filter out data
+- Write the functions needed for modifying the data
+- Present the data in the best way possible
+- Use Google Colaboratory for deploying
