@@ -1,6 +1,6 @@
 ## For my 5th project at General Assembly I have decided to explore data analysis and visualization libraries in Python.
 
-# TOPIC: "How dominant are Liverpool and Manchester City exactly?"
+## TOPIC: "How dominant are Liverpool and Manchester City exactly?"
 
 ## Tech Stack:
 
@@ -34,4 +34,4 @@ For my strech goal I would like to compare them to some of the most dominant sid
 
 - Shot volumes
 - Shots on target volumes and accuracy percentage
-- Comparison to some of the most dominant sides in the Premier League ever: Man Utd (2006/07 - 2011/12) and Chelsea (2004/05 - 2009/10)
+- Comparison to some of the most dominant sides in the Premier League ever: <br/>Man Utd (2006/07 - 2011/12) and Chelsea (2004/05 - 2009/10)
