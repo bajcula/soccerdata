@@ -9,4 +9,3 @@
 - Filter out data
 - Write the functions needed for modifying the data
 - Present the data in the best way possible
-- Use Google Colaboratory for deploying
